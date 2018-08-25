@@ -5,9 +5,15 @@
 covert between yaml and json files
 
 ## CLI Usage
+    // stdout json
+    yamljson -s config.yaml 
+    // save as file
+    yamljson -s config.yaml > config.json
 
-    yamljson -s config.yaml // output json
-    yamljson -s config.json // output yaml
+    // stdout yaml
+    yamljson -s config.json 
+    // save as file
+    yamljson -s config.json > config.yaml
 
 ## Install
 
