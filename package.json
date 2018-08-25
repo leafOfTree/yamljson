@@ -1,0 +1,15 @@
+{
+  "name": "yamljson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.12.0",
+    "prettier": "^1.14.2"
+  }
+}
