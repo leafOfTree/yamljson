@@ -32,7 +32,7 @@ function parseArgs(args) {
       options: 
         -s  src file
         -d  show debug info
-        -h  show this help
+        -h  show help info
     `)
   }
   return arg;

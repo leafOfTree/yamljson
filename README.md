@@ -18,7 +18,9 @@ covert between yaml and json files
 ### CLI options
 
 -t: src file
+
 -d: show debug info
+
 -h: show help info
 
 ### API
