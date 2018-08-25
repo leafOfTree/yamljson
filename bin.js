@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const yamljson = require('./lib');
 
 const arg = parseArgs(process.argv.slice(2));
