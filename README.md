@@ -17,7 +17,7 @@ covert between yaml and json files
 
 ### CLI options
 
--t: src file
+-s: src file
 
 -d: show debug info
 
