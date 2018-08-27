@@ -1,6 +1,6 @@
 {
   "name": "yamljson",
-  "version": "1.0.60",
+  "version": "1.0.62",
   "description": "",
   "main": "index.js",
   "scripts": { "test": "node test/test.js" },

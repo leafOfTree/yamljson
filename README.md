@@ -6,14 +6,14 @@ covert between yaml and json files
 
 ## CLI Usage
     // stdout json
-    yamljson -s config.yaml 
+    yamljson config.yaml
     // save as file
-    yamljson -s config.yaml > config.json
+    yamljson config.yaml > config.json
 
     // stdout yaml
-    yamljson -s config.json 
+    yamljson config.json 
     // save as file
-    yamljson -s config.json > config.yaml
+    yamljson config.json > config.yaml
 
 ## Install
 
@@ -22,8 +22,6 @@ covert between yaml and json files
 ## Document
 
 ### CLI options
-
--s: src file
 
 -d: show debug info
 
