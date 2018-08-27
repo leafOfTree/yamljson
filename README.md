@@ -29,11 +29,11 @@ covert between yaml and json files
 
 ### API
 
-安装到项目
+Install in project
 
     npm i yamlsjon
 
-require 后使用 `convert` 方法
+require and use `convert` method
 
 ```javascript
 const yamljson = require('yamljson');
